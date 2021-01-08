@@ -12,6 +12,7 @@ Vue.use(require('vue-moment'));
 
 Vue.component('header-navbar', require('./components/HeaderNavbar').default);
 Vue.component('footer-layout', require('./components/FooterLayout').default);
+Vue.component('assessment', require('./components/Assessment').default);
 
 const app = new Vue({
     el: '#app',
