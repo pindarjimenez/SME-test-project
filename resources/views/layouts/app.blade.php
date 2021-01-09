@@ -11,6 +11,8 @@
 </head>
 <body>
     <v-app id="app">
+        <header-navbar></header-navbar>
+
         @yield('content')
 
         <footer-layout></footer-layout>
