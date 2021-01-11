@@ -89,6 +89,11 @@ http://localhost:8000
 - Password: Secret123
 ```
 
+## Excel Format Output Example
+- GO: `https://drive.google.com/file/d/1Us1acyS8vyMIG-eMNUkxmI-LxAjlDj4t/view?usp=sharing`
+- NO GO: `https://drive.google.com/file/d/1All6cEcJoGngk2EPqHYdorGwZT61vTkT/view?usp=sharing`
+
+
 ## Screencast
 - https://www.loom.com/share/e59172e5907a44eb961f17560aa4078c
 
