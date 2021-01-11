@@ -1,8 +1,8 @@
 import Vuetify from 'vuetify';
 import VeeValidate from 'vee-validate';
-import store from './store/index';
 
 require('./bootstrap');
+require('./validation');
 
 window.Vue = require('vue');
 
@@ -18,5 +18,4 @@ Vue.component('assessment', require('./components/Assessment').default);
 const app = new Vue({
     el: '#app',
     vuetify: new Vuetify(),
-    store,
 });
