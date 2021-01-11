@@ -90,8 +90,8 @@ http://localhost:8000
 ```
 
 ## Excel Format Output Example
-- GO: `https://drive.google.com/file/d/1Us1acyS8vyMIG-eMNUkxmI-LxAjlDj4t/view?usp=sharing`
-- NO GO: `https://drive.google.com/file/d/1All6cEcJoGngk2EPqHYdorGwZT61vTkT/view?usp=sharing`
+- GO: https://drive.google.com/file/d/1Us1acyS8vyMIG-eMNUkxmI-LxAjlDj4t/view?usp=sharing
+- NO GO: https://drive.google.com/file/d/1All6cEcJoGngk2EPqHYdorGwZT61vTkT/view?usp=sharing
 
 
 ## Screencast
