@@ -2487,8 +2487,6 @@ __webpack_require__.r(__webpack_exports__);
   },
   methods: {
     openModal: function openModal(result) {
-      console.log(result);
-
       if (result === 'GO') {
         this.message = "Thanks for sending information about your company. It seems to fit \u201CIberian Ventures\u201D investment criteria \u2013 \n                          an associate in the team will reach out to you for next steps.";
       } else {

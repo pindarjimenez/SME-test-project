@@ -40,7 +40,6 @@
     },
     methods: {
       openModal(result) {
-        console.log(result);
         if(result === 'GO') {
           this.message = `Thanks for sending information about your company. It seems to fit “Iberian Ventures” investment criteria – 
                             an associate in the team will reach out to you for next steps.`;
