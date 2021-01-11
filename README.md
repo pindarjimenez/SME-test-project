@@ -1,6 +1,6 @@
-# Test Project
+# Ibventur SME 
 
-Ibventur SME 
+Test Project
 
 ## Requirements
 * PHP >= 7.1.3
@@ -83,14 +83,14 @@ or
 http://localhost:8000
 ```
 
-## Mailtrap
+## Mailtrap Account
 ```
-- Username: `darkeninnovation@gmail.com`
-- Password: `Secret123`
+- Username: darkeninnovation@gmail.com
+- Password: Secret123
 ```
 
 ## Screencast
 - https://www.loom.com/share/e59172e5907a44eb961f17560aa4078c
 
 ## License
-Copyright © 2021, [Pindar_Jimenez]
+Copyright © 2021, [Pindar Jimenez Jr]
