@@ -98,6 +98,10 @@
     &__container {
       height: 100vh;
       position: relative;
+
+      @media (min-width: 959px) {
+        height: auto;
+      }
     }
   }
 

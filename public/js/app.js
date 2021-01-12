@@ -2531,7 +2531,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".navbar[data-v-02f4ba68] {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  z-index: 100;\n  background: transparent;\n}\n.navbar__container[data-v-02f4ba68] {\n  height: 100vh;\n  position: relative;\n}\nbutton.burger[data-v-02f4ba68] {\n  height: auto !important;\n  min-width: auto !important;\n  padding: 0.5em 0.8em !important;\n  background: transparent !important;\n}\n@media (min-width: 959px) {\n.v-list-item__title[data-v-02f4ba68] {\n    font-size: 0.8rem;\n}\n}\n@media (min-width: 1263px) {\n.v-list-item__title[data-v-02f4ba68] {\n    font-size: 1rem;\n}\n}", ""]);
+exports.push([module.i, ".navbar[data-v-02f4ba68] {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  z-index: 100;\n  background: transparent;\n}\n.navbar__container[data-v-02f4ba68] {\n  height: 100vh;\n  position: relative;\n}\n@media (min-width: 959px) {\n.navbar__container[data-v-02f4ba68] {\n    height: auto;\n}\n}\nbutton.burger[data-v-02f4ba68] {\n  height: auto !important;\n  min-width: auto !important;\n  padding: 0.5em 0.8em !important;\n  background: transparent !important;\n}\n@media (min-width: 959px) {\n.v-list-item__title[data-v-02f4ba68] {\n    font-size: 0.8rem;\n}\n}\n@media (min-width: 1263px) {\n.v-list-item__title[data-v-02f4ba68] {\n    font-size: 1rem;\n}\n}", ""]);
 
 // exports
 
