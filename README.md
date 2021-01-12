@@ -3,7 +3,7 @@
 Test Project
 
 ## Requirements
-* PHP >= 7.1.3
+* PHP >= 7.3
 * Composer
 * Nodejs >= 9.11.1
 
